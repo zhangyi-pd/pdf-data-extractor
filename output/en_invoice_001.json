@@ -1,0 +1,31 @@
+{
+  "source": "D:\\codexproject\\multilingual-doc-generator\\output\\pdfs\\en_invoice_001.pdf",
+  "filename": "en_invoice_001.pdf",
+  "processed_at": "2026-06-30T15:18:41.410352",
+  "pages": [
+    {
+      "page": 1,
+      "text": "INVOICE\nINV-50167\nFrom:\nVance-Carlson\n8860 Haas Knolls Apt. 172, Ginafurt, PA 52917\nrobertanderson@example.net\nBill To:\nAlvin Anderson\nMorrison-Jensen\n70502 Sara Mountain, Joshuashire, NJ 29629\nDate: 2026-06-10    Due: 2026-07-07    Status: Paid\nDescription\nQty\nUnit Price\nTotal\nTotal multi-state system engine\n1\n$ 186.60\n$ 186.60\nVision-oriented exuding concept\n4\n$ 297.77\n$ 1191.08\nOrganized 24hour protocol\n6\n$ 12.03\n$ 72.18\nReverse-engineered 5thgeneration Lo\n12\n$ 387.05\n$ 4644.60\nAssimilated needs-based archive\n12\n$ 95.92\n$ 1151.04\nSubtotal:  $ 7245.50\nTax (8%):  $ 579.64\nTOTAL:  $ 7825.14\nSAMPLE — TEST DATA",
+      "char_count": 616,
+      "method": "text_extraction"
+    }
+  ],
+  "_page_data": [
+    {
+      "page": 1,
+      "text": "INVOICE\nINV-50167\nFrom:\nVance-Carlson\n8860 Haas Knolls Apt. 172, Ginafurt, PA 52917\nrobertanderson@example.net\nBill To:\nAlvin Anderson\nMorrison-Jensen\n70502 Sara Mountain, Joshuashire, NJ 29629\nDate: 2026-06-10    Due: 2026-07-07    Status: Paid\nDescription\nQty\nUnit Price\nTotal\nTotal multi-state system engine\n1\n$ 186.60\n$ 186.60\nVision-oriented exuding concept\n4\n$ 297.77\n$ 1191.08\nOrganized 24hour protocol\n6\n$ 12.03\n$ 72.18\nReverse-engineered 5thgeneration Lo\n12\n$ 387.05\n$ 4644.60\nAssimilated needs-based archive\n12\n$ 95.92\n$ 1151.04\nSubtotal:  $ 7245.50\nTax (8%):  $ 579.64\nTOTAL:  $ 7825.14\nSAMPLE — TEST DATA",
+      "char_count": 616,
+      "method": "text_extraction"
+    }
+  ],
+  "page_count": 1,
+  "scanned": false,
+  "method": "text_extraction",
+  "extracted": {
+    "document_type": "invoice",
+    "invoice_number": "INV-50167",
+    "date": "2026-06-10",
+    "total_amount": "7245.50",
+    "_text_preview": "INVOICE\nINV-50167\nFrom:\nVance-Carlson\n8860 Haas Knolls Apt. 172, Ginafurt, PA 52917\nrobertanderson@example.net\nBill To:\nAlvin Anderson\nMorrison-Jensen\n70502 Sara Mountain, Joshuashire, NJ 29629\nDate: 2026-06-10    Due: 2026-07-07    Status: Paid\nDescription\nQty\nUnit Price\nTotal\nTotal multi-state system engine\n1\n$ 186.60\n$ 186.60\nVision-oriented exuding concept\n4\n$ 297.77\n$ 1191.08\nOrganized 24hour protocol\n6\n$ 12.03\n$ 72.18\nReverse-engineered 5thgeneration Lo\n12\n$ 387.05\n$ 4644.60\nAssimilated ne"
+  }
+}
